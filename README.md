@@ -1,10 +1,10 @@
 # CSI-Assignment-Week-7
-# ML Model Deployment with Streamlit
+## ML Model Deployment with Streamlit
 
 This project demonstrates how to deploy a trained machine learning model using [Streamlit](https://streamlit.io). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
 ---
-LIVE LINK - []
-
+LIVE LINK - https://kavyansh-adult-census-ml.streamlit.app/
+their are some issue with the live link please try to deploy it locally, will fix it asap.
 ## 📁 Project Structure
 
 ```
