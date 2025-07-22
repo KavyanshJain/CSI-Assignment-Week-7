@@ -122,14 +122,6 @@ plotly
 
 ---
 
-## 🙌 Acknowledgments
-
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Scikit-learn](https://scikit-learn.org/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/)
-
----
-
 ## Creator
 Kavyansh Jain
 
