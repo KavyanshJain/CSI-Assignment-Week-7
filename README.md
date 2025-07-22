@@ -4,7 +4,7 @@
 This project demonstrates how to deploy a trained machine learning model using [Streamlit](https://streamlit.io). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
 
 LIVE LINK - https://kavyansh-adult-census-ml.streamlit.app/
-their are some issue with the live link please try to deploy it locally, will fix it asap.
+
 ## 📁 Project Structure
 
 ```
@@ -108,7 +108,8 @@ plotly
 
 ## 📸 Application Preview
 
-![Application Screenshot](image.png)
+<img width="1366" height="1297" alt="app" src="https://github.com/user-attachments/assets/af93e900-bf5d-496f-8ade-bb7062469ec5" />
+
 
 ---
 
